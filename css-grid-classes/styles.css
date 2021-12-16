@@ -1,0 +1,27 @@
+.container{
+  max-width: 800px;
+  margin: 0 auto;
+}
+.row{
+  display: flex;
+}
+
+.column-half{
+  width: 50%;
+}
+
+.col-third{
+  width: 33%;
+}
+
+.third-image{
+  height: 70%;
+}
+
+.col-fourth{
+  width: 25%;
+}
+
+.fourth-image{
+  height: 55%;
+}
